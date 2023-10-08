@@ -2,8 +2,6 @@ import plivo
 def sendSMS(message,to_Number,from_Number):
     client = plivo.RestClient('<auth_id>','<auth_token>')
     response = client.messages.create(
-        # src='919346766419',
-        # dst='919290261327',
         src=from_Number,
         dst=to_Number,
         text=message,
