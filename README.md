@@ -26,3 +26,5 @@ npm start
 ```
 * The interface should now look like
   ![Screenshot from 2023-10-08 17-40-59](https://github.com/poorvaj-a/Plivo-Hackathon/assets/82881569/6bb34921-f335-4c5d-b95a-7e56b235108f)
+
+* The Application is now ready to go.
