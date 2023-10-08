@@ -6,7 +6,8 @@
   
 # Getting Started
 * Get the source code by cloning the repository
-  ```bash
+
+```bash
 git clone https://github.com/poorvaj-a/Plivo-Hackathon
 ```
 * Go into Backend Directory and run the server.py file, using the command
