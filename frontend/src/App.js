@@ -20,7 +20,7 @@ function App() {
     })
     if (response.ok) {
       // console.log('message sent')
-      alert("Message sent successfully")
+      alert("Message queued successfully")
     }
     else {
       alert("Please check the inputs again")
