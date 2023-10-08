@@ -14,13 +14,15 @@ git clone https://github.com/poorvaj-a/Plivo-Hackathon
 ```bash
 python3 server.py
 ```
-this starts the backend server in a local default port(5000).
+This starts the backend server in a local default port(5000).
 
 * Next, go into the Frontend directory and install npm modules using
 ```bash
 npm install
 ```
-Run the Frontend using,
+* Run the Frontend using,
 ```bash
 npm start
 ```
+* The interface should now look like
+  ![Screenshot from 2023-10-08 17-40-59](https://github.com/poorvaj-a/Plivo-Hackathon/assets/82881569/6bb34921-f335-4c5d-b95a-7e56b235108f)
