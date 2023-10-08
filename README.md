@@ -25,7 +25,7 @@ npm install
 npm start
 ```
 * The interface should now look like
-* ![Screenshot from 2023-10-08 22-23-08](https://github.com/poorvaj-a/Plivo-Hackathon/assets/82881569/ca56723f-b3cf-4068-bdd5-ba9aef52bdcf)
+![Screenshot from 2023-10-08 22-23-08](https://github.com/poorvaj-a/Plivo-Hackathon/assets/82881569/ca56723f-b3cf-4068-bdd5-ba9aef52bdcf)
 
 
 
